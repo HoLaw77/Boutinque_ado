@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-holaw77-boutinque-ado-upb30rgv2n.us2.codeanyapp.com', '8000-holaw77-boutinqueado-2980hv0bxy2.ws-eu106.gitpod.io']
 
+CSRF_TRUSTED_ORIGINS = ["https://8000-holaw77-boutinqueado-2980hv0bxy2.ws-eu106.gitpod.io"]
 
 # Application definition
 

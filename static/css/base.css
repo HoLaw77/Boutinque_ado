@@ -38,6 +38,19 @@ body {
     color: white;
 }
 
+.btn_outline_black {
+    background: white;
+    color: black !important;
+    border: 1px solid black
+}
+
+.btn_outline_black:hover,
+.btn_outline_black:active,
+.btn_outline_black:focus {
+    background: black;
+    color: white !important;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
